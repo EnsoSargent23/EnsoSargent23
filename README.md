@@ -24,6 +24,28 @@ processing algorithms, especially the FFT and TDOA will be implemented and compa
 
 **Keywords:** `FPGA` · `Microcontroller` · `Real-time processing` · `Audio signals` · `FFT` · `TDOA`
 
+## 💼 Practical Experience
+
+**6-Month Praxissemester / Internship**  
+*Internet of Things Laboratory (IoT Lab), Hochschule Rhein-Waal (HSRW)* — Kamp-Lintfort, Germany
+
+During my 6-month practical semester at the IoT Lab HSRW, I worked on hardware-software integration, wireless communication, and embedded systems development. I contributed to four distinct projects, focusing on prototyping, data logging, and interactive systems:
+
+### 1. [Temperature Chain](https://github.com/EOLab-HSRW/TempratureChain)
+A distributed sensor network project designed to monitor and chain temperature measurements across multiple nodes, focusing on reliable data acquisition and hardware-software communication.
+
+### 2. [Dieter Meshtastic](https://github.com/EOLab-HSRW/Dieter_Meshtastic)
+A project centered around off-grid, decentralized mesh networking using Meshtastic technology, exploring long-range radio communication and portable IoT nodes.
+
+### 3. [Workshop Let's Play](https://github.com/EOLab-HSRW/Workshop_LetsPlaiy)
+An interactive, hands-on workshop project combining hardware and software elements to engage participants in creative technology and prototyping.
+
+### 4. [Data Logger](https://github.com/EOLab-HSRW/Data_Logger)
+A reliable data logging system built to capture, store, and process sensor data streams efficiently for analysis and monitoring purposes.
+
+**Keywords:** `IoT` · `Embedded Systems` · `Sensor Networks` · `Meshtastic` · `Prototyping` · `Hardware-Software Integration` · `Data Logging`
+
+
 ## 🛠️ Things I've Worked With
 
 My projects have covered quite a broad range of technologies and disciplines:
