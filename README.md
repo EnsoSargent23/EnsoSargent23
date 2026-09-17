@@ -6,10 +6,10 @@ I enjoy understanding how things work, experimenting with ideas, and turning con
 
 ## 🎓 Education
 
-**B.Sc. Media Informatics**  
+**B.Sc. Media Informatics (2020-2026)**  
 Hochschule Rhein-Waal — Kamp-Lintfort, Germany
 
-**M.Sc. Informatics: Intelligent Technical Systems**  
+**M.Sc. Informatics: Intelligent Technical Systems (2026-)**  
 Universität Duisburg-Essen — Duisburg, Germany  
 
 ### Bachelor's Thesis
