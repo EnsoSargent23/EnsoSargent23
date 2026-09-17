@@ -45,6 +45,15 @@ A reliable data logging system built to capture, store, and process sensor data 
 
 **Keywords:** `IoT` · `Embedded Systems` · `Sensor Networks` · `Meshtastic` · `Prototyping` · `Hardware-Software Integration` · `Data Logging`
 
+**Interdisciplinary Project**  
+*Hochschule Rhein-Waal (HSRW)* — Kamp-Lintfort, Germany
+
+As part of a team effort for a interdisciplinary project module, we developed an innovative collaborative project focusing on creative technology, interaction, and system integration:
+
+### [WhisperingSight (Playing Card Recognition for the Blind)](https://github.com/EnsoSargent23/WhisperingSight)
+A user-centered assistive system designed to make physical card games accessible for individuals with visual impairments (such as retinal degeneration or tunnel vision). The system uses an **ESP32 microcontroller**, an **NFC module (PN532)** to read special tags on UNO cards, and a **DF Player module** to provide audio feedback, allowing users to recognize their cards and enjoy games independently.
+
+**Keywords:** `Interdisciplinary` · `Assistive Technology` · `ESP32` · `NFC` · `Audio Feedback` · `User-Centered Design`
 
 ## 🛠️ Things I've Worked With
 
