@@ -102,19 +102,17 @@ I have a strong interest in:
 - 🎨 Colors & visual design
 - ✨ Animation & motion
 - 🔊 Sound & audio
-- 🖥️ Interactive systems
-- 🤖 Intelligent systems
-- ⚡ Embedded systems
+- 🤖 Roboter
 - 🧩 Prototyping
 - 🎮 Games & playful interaction
 - 🔬 Experimentation
 - 🛠️ Making things from scratch
 
-I like projects where **software becomes something tangible** — where code can produce light, sound, movement, interaction, or a physical object.
+I like projects where **software becomes something immersive** — where code can produce light, sound, movement, interaction, or a physical object.
 
 ## 🌱 Always Exploring
 
-My interests are intentionally broad. I enjoy jumping into completely different areas simply because something makes me wonder:
+Something makes me wonder:
 
 > *"How does this actually work?"*
 
