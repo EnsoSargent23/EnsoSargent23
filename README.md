@@ -8,18 +8,30 @@ I enjoy understanding how things work, experimenting with ideas, and turning con
 
 ## 🎓 Education
 
-**M.Sc. Intelligent Technical Systems**  
-Hochschule Rhein-Waal — Kamp-Lintfort, Germany  
-*Focus: Computer Science*
-
 **B.Sc. Media Informatics**  
 Hochschule Rhein-Waal — Kamp-Lintfort, Germany
 
+**M.Sc. Informatics: Intelligent Technical Systems**  
+Universität Duisburg-Essen — Duisburg, Germany  
+
 ### Bachelor's Thesis
 
-**Prototype — A comparison of FPGA and MCU for real-time audio signal processing using FFT and TDOA, including LED-based visualization**
+[Comparison of FPGA and Microcontroller for Real-Time Audio Signal Processing for Direction Detection Using FFT and TDOA Including LED-Based Visualization](https://opus4.kobv.de/opus4-rhein-waal/frontdoor/deliver/index/docId/2322/file/9455_20263101183010_Abgabe_Bachelorarbeit_Ey%c3%bcp_S%c3%bcyr%c3%bcge_28962.pdf)
 
-The project explored real-time audio processing using **FFT (Fast Fourier Transform)** and **TDOA (Time Difference of Arrival)** on different embedded platforms, combined with an **LED-based visualization**.
+The aim of this thesis is the development of a practical system for real-time audio signal
+processing with a focus on sound source localization. For this purpose, an FPGA and a
+microcontroller are selected as hardware platforms. The main focus lies on comparing
+both platforms in terms of performance, accuracy, and resource efficiency. Therefore signal
+processing algorithms, especially the FFT and TDOA will be implemented and compared.
+
+**Keywords:** 
+
+- FPGA
+- Microcontroller
+- Real-time processing
+- Audio signals
+- FFT
+- TDOA
 
 ## 🛠️ Things I've Worked With
 
