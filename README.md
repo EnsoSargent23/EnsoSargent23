@@ -26,7 +26,7 @@ processing algorithms, especially the FFT and TDOA will be implemented and compa
 
 ## 💼 Practical Experience
 
-**6-Month Praxissemester / Internship**  
+**Internship**  
 *Internet of Things Laboratory (IoT Lab), Hochschule Rhein-Waal (HSRW)* — Kamp-Lintfort, Germany
 
 During my 6-month practical semester at the IoT Lab HSRW, I worked on hardware-software integration, wireless communication, and embedded systems development. I contributed to four distinct projects, focusing on prototyping, data logging, and interactive systems:
