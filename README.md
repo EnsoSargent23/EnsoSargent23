@@ -1,4 +1,6 @@
-## Hi there 👋
+# Eyüp Süyrüge
+
+<img src="./assets/bild.svg" alt="Bild" style="position:absolute;top:0px;">
 
 <!--
 **EnsoSargent23/EnsoSargent23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
