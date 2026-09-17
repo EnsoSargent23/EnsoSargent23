@@ -22,32 +22,17 @@ microcontroller are selected as hardware platforms. The main focus lies on compa
 both platforms in terms of performance, accuracy, and resource efficiency. Therefore signal
 processing algorithms, especially the FFT and TDOA will be implemented and compared.
 
-**Keywords:** 
-
-- FPGA
-- Microcontroller
-- Real-time processing
-- Audio signals
-- FFT
-- TDOA
+**Keywords:** `FPGA` · `Microcontroller` · `Real-time processing` · `Audio signals` · `FFT` · `TDOA`
 
 ## 🛠️ Things I've Worked With
 
 My projects have covered quite a broad range of technologies and disciplines:
 
-### Software & Development
-
-- Web development
-- E-commerce systems
-- Mobile applications
-- Android / Android Studio
-- Kiosk applications
-- Desktop applications with .NET
-- Angular libraries
+- Web development (E-commerce, Kiosk)
+- Desktop applications
 - Game development
-- Compiler development with Haskell
-- Data analysis & statistics with R
-
+- Compiler development
+  
 ### Programming Languages
 
 `C` · `C++` · `C#` · `JavaScript` · `Python` · `Haskell` · `R`
@@ -56,10 +41,6 @@ My projects have covered quite a broad range of technologies and disciplines:
 
 - FPGA development
 - MCU development
-- ESP32
-- Arduino
-- Raspberry Pi Pico
-- Tang Nano 9K
 - Real-time systems
 - Audio signal processing
 - Sensors & hardware experimentation
