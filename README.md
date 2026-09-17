@@ -1,6 +1,4 @@
-<img src="./assets/bild.svg" alt="Bild" style="position:absolute;top:0px;">
-
-# Hi, I'm Eyüp Süyrüge 👋
+# Eyüp Süyrüge
 
 I'm a **29-year-old Master's student in Intelligent Technical Systems** with a background in **Media Informatics**.
 
