@@ -2,7 +2,7 @@
 
 I'm a **29-year-old Master's student in Intelligent Technical Systems** with a background in **Media Informatics**.
 
-I enjoy understanding how things work, experimenting with ideas, and turning concepts into working prototypes. I'm especially interested in the intersection of **software, hardware, interaction, media, and creative technology**.
+I enjoy understanding how things work, experimenting with ideas, and turning concepts into working prototypes. I'm especially interested in the intersection of **software, hardware, interaction, media, and generative technology**.
 
 ## 🎓 Education
 
@@ -38,7 +38,7 @@ A distributed sensor network project designed to monitor and chain temperature m
 A project centered around off-grid, decentralized mesh networking using Meshtastic technology, exploring long-range radio communication and portable IoT nodes.
 
 ### 3. [Workshop Let's Play](https://github.com/EOLab-HSRW/Workshop_LetsPlaiy)
-An interactive, hands-on workshop project combining hardware and software elements to engage participants in creative technology and prototyping.
+An interactive, hands-on workshop project combining hardware and software elements to engage participants in technology and prototyping.
 
 ### 4. [Data Logger](https://github.com/EOLab-HSRW/Data_Logger)
 A reliable data logging system built to capture, store, and process sensor data streams efficiently for analysis and monitoring purposes.
@@ -48,7 +48,7 @@ A reliable data logging system built to capture, store, and process sensor data 
 **Interdisciplinary Project**  
 *Hochschule Rhein-Waal (HSRW)* — Kamp-Lintfort, Germany
 
-As part of a team effort for a interdisciplinary project module, we developed an innovative collaborative project focusing on creative technology, interaction, and system integration:
+As part of a team effort for a interdisciplinary project module, we developed an innovative collaborative project focusing on immersive technology, interaction, and system integration:
 
 ### [WhisperingSight (Playing Card Recognition for the Blind)](https://github.com/EnsoSargent23/WhisperingSight)
 A user-centered assistive system designed to make physical card games accessible for individuals with visual impairments (such as retinal degeneration or tunnel vision). The system uses an **ESP32 microcontroller**, an **NFC module (PN532)** to read special tags on UNO cards, and a **DF Player module** to provide audio feedback, allowing users to recognize their cards and enjoy games independently.
