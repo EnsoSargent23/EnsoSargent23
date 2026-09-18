@@ -84,7 +84,7 @@ My projects have covered quite a broad range of technologies and disciplines:
 - Electronics prototyping
 - Hardware-software integration
 
-### 3D & Creative Tools
+### 3D Tools
 
 - Blender
 - AutoCAD
